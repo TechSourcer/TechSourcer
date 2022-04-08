@@ -1,16 +1,13 @@
-### Hi there 👋
+## 👉 About me - Daniel
 
-<!--
-**TechSourcer/TechSourcer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello World 👋 I am [Daniel](https://www.linkedin.com/in/daniel-b%C3%B6hm-bb8512192/) and I am a Sourcer🕵️‍♀️ from Germany. 
 
-Here are some ideas to get you started:
+In the near future you will find all about the sourcing stuff here - and of course about my coding activities. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me! Everything about sourcing and the recruiting world!
+- 📫 Want to reach me? Just write me via LinkedIn
+- 🌱 What I am learing? Kotlin and Python 🤖
+- 🔭 Where I work? Well, since this is not my official page I can tell you that I am working for a large automotive company 😉
+
+....and happy sourcing & coding! 
+
