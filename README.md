@@ -7,7 +7,7 @@ In the near future you will find all about the sourcing stuff here - and of cour
 - 💬 Ask me! Everything about sourcing and the recruiting world!
 - 📫 Want to reach me? Just write me via LinkedIn
 - 🌱 What I am learing? Kotlin and Python 🤖
-- 🔭 Where I work? Well, since this is not my official page I can tell you that I am working for a large automotive company 😉
+- 🔭 Where I work? Well, since this is not my official page I can tell you that I am working for a plastic company (Playmobil) 😉
 
 ....and happy sourcing & coding! 
 
